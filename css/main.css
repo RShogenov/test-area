@@ -1,0 +1,23 @@
+.tittle {
+  font-size: 25px;
+  color: #e12123; }
+
+ul {
+  list-style: none; }
+
+.tabs__item {
+  display: inline-block;
+  padding: 5px 8px;
+  border: 2px solid #f84;
+  border-radius: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+  cursor: pointer; }
+  .tabs__item--active {
+    background: #f43343; }
+
+.content__item {
+  display: none; }
+
+.active {
+  display: block; }
